@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Outfit";
+  src: url("../public/Outfit.ttf");
+}
+
+* {
+  /* outline: 1px solid red; */
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+}
